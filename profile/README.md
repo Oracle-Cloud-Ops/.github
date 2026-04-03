@@ -9,7 +9,7 @@ Welcome to the central command for my OCI Always Free cluster.
 
 ## 📋 Standard Operating Procedures (SOPs)
 - [🚨 The "Big Upgrade" Checklist](https://github.com/Oracle-Cloud-Ops/infra/blob/main/docs/UPGRADE_SOP.md)
-- [🔐 Managing Environment Variables](https://github.com/Oracle-Cloud-Ops/infra/blob/main/README.md#secrets)
+- [🔐 Managing Environment Variables](https://github.com/Oracle-Cloud-Ops/infra/blob/main/docs/SECRETS_SOP.md)
 - [💾 Postgres Backup & Recovery](https://github.com/Oracle-Cloud-Ops/infra/blob/main/docs/POSTGRES_OPS.md)
 
 ## 🏗 Active Projects
